@@ -1712,4 +1712,4 @@ if (!oldGuild.member(client.user).hasPermission('EMBED_LINKS')) return;
 	})
 });
 
-client.login(process.env.token);
+client.login("NzU2NjM2MTgxMTQzNDg2NDY0.X2UuWw.copW0DEMHy7FE3ZurMOH8PNpaQQ");
